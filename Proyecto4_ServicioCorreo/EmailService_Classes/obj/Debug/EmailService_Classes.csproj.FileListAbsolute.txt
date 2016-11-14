@@ -1,0 +1,1 @@
+C:\Users\Yasiell\Documents\Visual Studio 2015\Projects\Proyecto4_ServicioCorreo\EmailService_Classes\bin\Debug\EmailService_Classes.exe.config
