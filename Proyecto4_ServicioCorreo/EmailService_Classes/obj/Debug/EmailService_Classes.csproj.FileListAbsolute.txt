@@ -1,1 +1,2 @@
 C:\Users\Yasiell\Documents\Visual Studio 2015\Projects\Proyecto4_ServicioCorreo\EmailService_Classes\bin\Debug\EmailService_Classes.exe.config
+C:\Users\Nelss-9000\Documents\TEC\IIS2016\Aseguraminto\Proyecto4\Aseguramiento_Proyecto4\Proyecto4_ServicioCorreo\EmailService_Classes\bin\Debug\EmailService_Classes.exe.config

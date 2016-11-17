@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace EmailService_Classes
 {
-    interface notificaciones
+    class emailAdress
     {
+        string name;
+        string email;
     }
 }
