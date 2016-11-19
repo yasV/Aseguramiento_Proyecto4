@@ -6,12 +6,12 @@ using System.Threading.Tasks;
 
 namespace EmailService_Classes
 {
-    class notificationcs
+    public class notification
     {
-        string mensaje;
-        int hora;
+        public string mensaje;
+        public int hora;
         
-        void notifications(string pMensaje, int pHora)
+        public notification(string pMensaje, int pHora)
         {
             mensaje = pMensaje;
             hora = pHora;

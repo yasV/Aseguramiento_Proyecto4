@@ -1,0 +1,9 @@
+C:\Users\Yasiell\Documents\Github\Aseguramiento_Proyecto4\Proyecto4_ServicioCorreo\EmailService_Test\obj\Debug\EmailService_Test.csprojResolveAssemblyReference.cache
+C:\Users\Yasiell\Documents\Github\Aseguramiento_Proyecto4\Proyecto4_ServicioCorreo\EmailService_Test\bin\Debug\EmailService_Test.dll
+C:\Users\Yasiell\Documents\Github\Aseguramiento_Proyecto4\Proyecto4_ServicioCorreo\EmailService_Test\bin\Debug\EmailService_Test.pdb
+C:\Users\Yasiell\Documents\Github\Aseguramiento_Proyecto4\Proyecto4_ServicioCorreo\EmailService_Test\bin\Debug\EmailService_Classes.exe
+C:\Users\Yasiell\Documents\Github\Aseguramiento_Proyecto4\Proyecto4_ServicioCorreo\EmailService_Test\bin\Debug\nunit.framework.dll
+C:\Users\Yasiell\Documents\Github\Aseguramiento_Proyecto4\Proyecto4_ServicioCorreo\EmailService_Test\bin\Debug\EmailService_Classes.pdb
+C:\Users\Yasiell\Documents\Github\Aseguramiento_Proyecto4\Proyecto4_ServicioCorreo\EmailService_Test\bin\Debug\nunit.framework.xml
+C:\Users\Yasiell\Documents\Github\Aseguramiento_Proyecto4\Proyecto4_ServicioCorreo\EmailService_Test\obj\Debug\EmailService_Test.dll
+C:\Users\Yasiell\Documents\Github\Aseguramiento_Proyecto4\Proyecto4_ServicioCorreo\EmailService_Test\obj\Debug\EmailService_Test.pdb
