@@ -7,3 +7,18 @@ C:\Users\Yasiell\Documents\Github\Aseguramiento_Proyecto4\Proyecto4_ServicioCorr
 C:\Users\Yasiell\Documents\Github\Aseguramiento_Proyecto4\Proyecto4_ServicioCorreo\EmailService_Test\bin\Debug\nunit.framework.xml
 C:\Users\Yasiell\Documents\Github\Aseguramiento_Proyecto4\Proyecto4_ServicioCorreo\EmailService_Test\obj\Debug\EmailService_Test.dll
 C:\Users\Yasiell\Documents\Github\Aseguramiento_Proyecto4\Proyecto4_ServicioCorreo\EmailService_Test\obj\Debug\EmailService_Test.pdb
+C:\Users\sofia\Documents\Visual Studio 2015\Projects\Aseguramiento_Proyecto4\Proyecto4_ServicioCorreo\EmailService_Test\bin\Debug\EmailService_Test.dll
+C:\Users\sofia\Documents\Visual Studio 2015\Projects\Aseguramiento_Proyecto4\Proyecto4_ServicioCorreo\EmailService_Test\bin\Debug\EmailService_Test.pdb
+C:\Users\sofia\Documents\Visual Studio 2015\Projects\Aseguramiento_Proyecto4\Proyecto4_ServicioCorreo\EmailService_Test\bin\Debug\EmailService_Classes.exe
+C:\Users\sofia\Documents\Visual Studio 2015\Projects\Aseguramiento_Proyecto4\Proyecto4_ServicioCorreo\EmailService_Test\bin\Debug\Mail4Net.dll
+C:\Users\sofia\Documents\Visual Studio 2015\Projects\Aseguramiento_Proyecto4\Proyecto4_ServicioCorreo\EmailService_Test\bin\Debug\nunit.framework.dll
+C:\Users\sofia\Documents\Visual Studio 2015\Projects\Aseguramiento_Proyecto4\Proyecto4_ServicioCorreo\EmailService_Test\bin\Debug\EmailService_Classes.pdb
+C:\Users\sofia\Documents\Visual Studio 2015\Projects\Aseguramiento_Proyecto4\Proyecto4_ServicioCorreo\EmailService_Test\bin\Debug\Mail4Net.xml
+C:\Users\sofia\Documents\Visual Studio 2015\Projects\Aseguramiento_Proyecto4\Proyecto4_ServicioCorreo\EmailService_Test\bin\Debug\nunit.framework.xml
+C:\Users\sofia\Documents\Visual Studio 2015\Projects\Aseguramiento_Proyecto4\Proyecto4_ServicioCorreo\EmailService_Test\obj\Debug\EmailService_Test.csprojResolveAssemblyReference.cache
+C:\Users\sofia\Documents\Visual Studio 2015\Projects\Aseguramiento_Proyecto4\Proyecto4_ServicioCorreo\EmailService_Test\obj\Debug\EmailService_Test.dll
+C:\Users\sofia\Documents\Visual Studio 2015\Projects\Aseguramiento_Proyecto4\Proyecto4_ServicioCorreo\EmailService_Test\obj\Debug\EmailService_Test.pdb
+C:\Users\sofia\Documents\Visual Studio 2015\Projects\Aseguramiento_Proyecto4\Proyecto4_ServicioCorreo\EmailService_Test\bin\Debug\Castle.Core.dll
+C:\Users\sofia\Documents\Visual Studio 2015\Projects\Aseguramiento_Proyecto4\Proyecto4_ServicioCorreo\EmailService_Test\bin\Debug\Moq.dll
+C:\Users\sofia\Documents\Visual Studio 2015\Projects\Aseguramiento_Proyecto4\Proyecto4_ServicioCorreo\EmailService_Test\bin\Debug\Castle.Core.xml
+C:\Users\sofia\Documents\Visual Studio 2015\Projects\Aseguramiento_Proyecto4\Proyecto4_ServicioCorreo\EmailService_Test\bin\Debug\Moq.xml

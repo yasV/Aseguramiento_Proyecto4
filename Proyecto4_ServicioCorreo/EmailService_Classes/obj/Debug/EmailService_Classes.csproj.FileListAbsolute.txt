@@ -6,3 +6,11 @@ C:\Users\Yasiell\Documents\Github\Aseguramiento_Proyecto4\Proyecto4_ServicioCorr
 C:\Users\Yasiell\Documents\Github\Aseguramiento_Proyecto4\Proyecto4_ServicioCorreo\EmailService_Classes\bin\Debug\EmailService_Classes.pdb
 C:\Users\Yasiell\Documents\Github\Aseguramiento_Proyecto4\Proyecto4_ServicioCorreo\EmailService_Classes\obj\Debug\EmailService_Classes.exe
 C:\Users\Yasiell\Documents\Github\Aseguramiento_Proyecto4\Proyecto4_ServicioCorreo\EmailService_Classes\obj\Debug\EmailService_Classes.pdb
+C:\Users\sofia\Documents\Visual Studio 2015\Projects\Aseguramiento_Proyecto4\Proyecto4_ServicioCorreo\EmailService_Classes\bin\Debug\EmailService_Classes.exe.config
+C:\Users\sofia\Documents\Visual Studio 2015\Projects\Aseguramiento_Proyecto4\Proyecto4_ServicioCorreo\EmailService_Classes\obj\Debug\EmailService_Classes.exe
+C:\Users\sofia\Documents\Visual Studio 2015\Projects\Aseguramiento_Proyecto4\Proyecto4_ServicioCorreo\EmailService_Classes\obj\Debug\EmailService_Classes.pdb
+C:\Users\sofia\Documents\Visual Studio 2015\Projects\Aseguramiento_Proyecto4\Proyecto4_ServicioCorreo\EmailService_Classes\bin\Debug\EmailService_Classes.exe
+C:\Users\sofia\Documents\Visual Studio 2015\Projects\Aseguramiento_Proyecto4\Proyecto4_ServicioCorreo\EmailService_Classes\bin\Debug\EmailService_Classes.pdb
+C:\Users\sofia\Documents\Visual Studio 2015\Projects\Aseguramiento_Proyecto4\Proyecto4_ServicioCorreo\EmailService_Classes\bin\Debug\Mail4Net.dll
+C:\Users\sofia\Documents\Visual Studio 2015\Projects\Aseguramiento_Proyecto4\Proyecto4_ServicioCorreo\EmailService_Classes\bin\Debug\Mail4Net.xml
+C:\Users\sofia\Documents\Visual Studio 2015\Projects\Aseguramiento_Proyecto4\Proyecto4_ServicioCorreo\EmailService_Classes\obj\Debug\EmailService_Classes.csprojResolveAssemblyReference.cache
