@@ -18,3 +18,4 @@ C:\Users\sofia\Documents\Visual Studio 2015\Projects\Aseguramiento_Proyecto4\Pro
 C:\Users\sofia\Documents\Visual Studio 2015\Projects\Aseguramiento_Proyecto4\Proyecto4_ServicioCorreo\EmailService_Classes\bin\Debug\OpenPop.dll
 C:\Users\sofia\Documents\Visual Studio 2015\Projects\Aseguramiento_Proyecto4\Proyecto4_ServicioCorreo\EmailService_Classes\bin\Debug\nDumbster.xml
 C:\Users\sofia\Documents\Visual Studio 2015\Projects\Aseguramiento_Proyecto4\Proyecto4_ServicioCorreo\EmailService_Classes\bin\Debug\NSubstitute.xml
+C:\Users\sofia\Documents\Visual Studio 2015\Projects\Aseguramiento_Proyecto4\Proyecto4_ServicioCorreo\EmailService_Classes\obj\Debug\EmailService_Classes.csprojResolveAssemblyReference.cache

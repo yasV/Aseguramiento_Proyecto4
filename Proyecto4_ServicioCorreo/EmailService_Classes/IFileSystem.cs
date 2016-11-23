@@ -1,14 +1,14 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Net;
 using System.Text;
 using System.Threading.Tasks;
 
 namespace EmailService_Classes
 {
-    public interface IHttpWebRequestFactory
+    public interface IFileSystem
     {
-        HttpWebRequest Create(string uri);
+        bool OpenFile(string fileName);
+        bool writeFile(string nombre, string notificacion);
     }
 }

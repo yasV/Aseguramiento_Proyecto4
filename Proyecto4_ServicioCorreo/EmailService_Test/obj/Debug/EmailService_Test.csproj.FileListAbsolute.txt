@@ -22,3 +22,10 @@ C:\Users\sofia\Documents\Visual Studio 2015\Projects\Aseguramiento_Proyecto4\Pro
 C:\Users\sofia\Documents\Visual Studio 2015\Projects\Aseguramiento_Proyecto4\Proyecto4_ServicioCorreo\EmailService_Test\bin\Debug\Moq.dll
 C:\Users\sofia\Documents\Visual Studio 2015\Projects\Aseguramiento_Proyecto4\Proyecto4_ServicioCorreo\EmailService_Test\bin\Debug\Castle.Core.xml
 C:\Users\sofia\Documents\Visual Studio 2015\Projects\Aseguramiento_Proyecto4\Proyecto4_ServicioCorreo\EmailService_Test\bin\Debug\Moq.xml
+C:\Users\sofia\Documents\Visual Studio 2015\Projects\Aseguramiento_Proyecto4\Proyecto4_ServicioCorreo\EmailService_Test\bin\Debug\nDumbster.dll
+C:\Users\sofia\Documents\Visual Studio 2015\Projects\Aseguramiento_Proyecto4\Proyecto4_ServicioCorreo\EmailService_Test\bin\Debug\NSubstitute.dll
+C:\Users\sofia\Documents\Visual Studio 2015\Projects\Aseguramiento_Proyecto4\Proyecto4_ServicioCorreo\EmailService_Test\bin\Debug\OpenPop.dll
+C:\Users\sofia\Documents\Visual Studio 2015\Projects\Aseguramiento_Proyecto4\Proyecto4_ServicioCorreo\EmailService_Test\bin\Debug\nDumbster.xml
+C:\Users\sofia\Documents\Visual Studio 2015\Projects\Aseguramiento_Proyecto4\Proyecto4_ServicioCorreo\EmailService_Test\bin\Debug\NSubstitute.xml
+C:\Users\sofia\Documents\Visual Studio 2015\Projects\Aseguramiento_Proyecto4\Proyecto4_ServicioCorreo\EmailService_Test\bin\Debug\Rhino.Mocks.dll
+C:\Users\sofia\Documents\Visual Studio 2015\Projects\Aseguramiento_Proyecto4\Proyecto4_ServicioCorreo\EmailService_Test\bin\Debug\Rhino.Mocks.xml
