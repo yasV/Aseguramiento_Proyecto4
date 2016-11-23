@@ -16,5 +16,7 @@ namespace EmailService_Classes
         void executeNotification(); // lee archivo, crea lista, ordena y revista
         void writeFile(string nombre, string notoficacion); // escribe en el archivo
         int getintent();
+
+
     }
 }

@@ -7,9 +7,7 @@ using System.Threading.Tasks;
 using EmailService_Classes;
 using Mail4Net;
 using Moq;
-using NSubstitute;
-using System.Net;
-using System.IO;
+
 
 namespace EmailService_Test
 {
@@ -23,7 +21,6 @@ namespace EmailService_Test
     [Test]
         public void sendCorrectEmail(String email)
         {
-            
             var client = new Mail4Net.Client.FakeClient();
             var from = "assa2909@gmail.com";
             var to = email;
@@ -52,42 +49,7 @@ namespace EmailService_Test
             hora.AddHours(2);
             mockCall.Verify(mock => mock.reSendEmail(resendTest, "Esto es una prueba", 3));
             var result = mockCall.Setup(x => x.getintent());
-            Assert.LessOrEqual(int.Parse(result), 3);
-
-        }
-    public void apiCall()
-        {
-            var expected = "response content";
-            var expectedBytes = Encoding.UTF8.GetBytes(expected);
-            var responseStream = new MemoryStream();
-            responseStream.Write(expectedBytes, 0, expectedBytes.Length);
-            responseStream.Seek(0, SeekOrigin.Begin);
-
-            var response = Substitute.For<HttpWebResponse>();
-            response.GetResponseStream().Returns(responseStream);
-
-            var request = Substitute.For<HttpWebRequest>();
-            request.GetResponse().Returns(response);
-
-            var factory = Substitute.For<IHttpWebRequestFactory>();
-            factory.Create(Arg.Any<string>()).Returns(request);
-
-            //Act
-            var actualRequest = factory.Create("http://www.google.com");
-            actualRequest.Method = WebRequestMethods.Http.Get;
-
-            string actual;
-
-            using (var httpWebResponse = (HttpWebResponse)actualRequest.GetResponse())
-            {
-                using (var streamReader = new StreamReader(httpWebResponse.GetResponseStream()))
-                {
-                    actual = streamReader.ReadToEnd();
-                }
-            }
-
-            //Assert
-            Assert.AreEqual(expected, actual);
+            Assert.AreEqual(result, 3);
 
         }
     
