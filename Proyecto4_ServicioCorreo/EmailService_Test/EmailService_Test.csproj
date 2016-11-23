@@ -65,7 +65,8 @@
     <Reference Include="System" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="CreateNotificationTEST.cs" />
+    <Compile Include="createNotificationFile_Test.cs" />
+    <Compile Include="file_test.cs" />
     <Compile Include="sendEmail_Test.cs" />
     <Compile Include="emailAddres_Test.cs" />
     <Compile Include="notification_Test.cs" />

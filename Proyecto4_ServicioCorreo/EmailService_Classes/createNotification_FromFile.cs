@@ -7,10 +7,10 @@ using System.Threading.Tasks;
 
 namespace EmailService_Classes
 {
-   public class CreateNotification : servicesInterface
+   public class createNotification_FromFile : servicesInterface
     {
         IFileSystem file;
-        public CreateNotification (IFileSystem pFile) {
+        public createNotification_FromFile (IFileSystem pFile) {
             file = pFile;
         }
         public void createNotificationDaily(string hora, string mensaje)
@@ -54,6 +54,11 @@ namespace EmailService_Classes
         }
 
         public void writeFile(string nombre, string notificacion)
+        {
+            throw new NotImplementedException();
+        }
+
+        public List<notification> orderNotificationList(List<notification> pList)
         {
             throw new NotImplementedException();
         }

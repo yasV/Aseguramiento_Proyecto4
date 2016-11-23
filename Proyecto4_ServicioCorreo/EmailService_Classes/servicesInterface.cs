@@ -13,10 +13,9 @@ namespace EmailService_Classes
         void createNotificationDaily(string hora, string mensaje); //crear notificacion diaria, y llama la funcion writefle
         void createNotificationMonthly(int dia ,string hora, string mensaje); 
         void createNotificationWeekly(int dia, string hora, string mensaje);
-        void executeNotification(); // lee archivo, crea lista, ordena y revista
+        void executeNotification(); //revisa la lista y ejecuta
+        List<notification> orderNotificationList(List<notification> pList);
         void writeFile(string nombre, string notoficacion); // escribe en el archivo
         int getintent();
-
-
     }
 }

@@ -19,3 +19,10 @@ C:\Users\sofia\Documents\Visual Studio 2015\Projects\Aseguramiento_Proyecto4\Pro
 C:\Users\sofia\Documents\Visual Studio 2015\Projects\Aseguramiento_Proyecto4\Proyecto4_ServicioCorreo\EmailService_Classes\bin\Debug\nDumbster.xml
 C:\Users\sofia\Documents\Visual Studio 2015\Projects\Aseguramiento_Proyecto4\Proyecto4_ServicioCorreo\EmailService_Classes\bin\Debug\NSubstitute.xml
 C:\Users\sofia\Documents\Visual Studio 2015\Projects\Aseguramiento_Proyecto4\Proyecto4_ServicioCorreo\EmailService_Classes\obj\Debug\EmailService_Classes.csprojResolveAssemblyReference.cache
+C:\Users\Yasiell\Documents\Github\Aseguramiento_Proyecto4\Proyecto4_ServicioCorreo\EmailService_Classes\bin\Debug\Mail4Net.dll
+C:\Users\Yasiell\Documents\Github\Aseguramiento_Proyecto4\Proyecto4_ServicioCorreo\EmailService_Classes\bin\Debug\nDumbster.dll
+C:\Users\Yasiell\Documents\Github\Aseguramiento_Proyecto4\Proyecto4_ServicioCorreo\EmailService_Classes\bin\Debug\NSubstitute.dll
+C:\Users\Yasiell\Documents\Github\Aseguramiento_Proyecto4\Proyecto4_ServicioCorreo\EmailService_Classes\bin\Debug\OpenPop.dll
+C:\Users\Yasiell\Documents\Github\Aseguramiento_Proyecto4\Proyecto4_ServicioCorreo\EmailService_Classes\bin\Debug\Mail4Net.xml
+C:\Users\Yasiell\Documents\Github\Aseguramiento_Proyecto4\Proyecto4_ServicioCorreo\EmailService_Classes\bin\Debug\nDumbster.xml
+C:\Users\Yasiell\Documents\Github\Aseguramiento_Proyecto4\Proyecto4_ServicioCorreo\EmailService_Classes\bin\Debug\NSubstitute.xml

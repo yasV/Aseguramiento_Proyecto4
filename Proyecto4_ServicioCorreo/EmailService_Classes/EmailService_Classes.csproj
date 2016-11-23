@@ -60,8 +60,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="CreateNotification.cs" />
+    <Compile Include="createNotification_FromFile.cs" />
     <Compile Include="emailAddress.cs" />
+    <Compile Include="file.cs" />
     <Compile Include="IFileSystem.cs" />
     <Compile Include="notification.cs" />
     <Compile Include="Program.cs" />
